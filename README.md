@@ -6,3 +6,6 @@ tüm sourceleri indirir.
 index urllerinden başlayarak diğer sayfalara bakar aynı zamanda
 diğer sayfaların hepsini teker teker bitene kadar kontrol edip indirir. 
 Aynı sayfa mevcutsa ve indirilmişse es geçer.
+
+
+basit olan versiyonu için https://github.com/emreuyguc/Python3_Basit-Tema-Site-indirici-Downloader
