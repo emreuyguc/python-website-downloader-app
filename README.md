@@ -9,3 +9,7 @@ Aynı sayfa mevcutsa ve indirilmişse es geçer.
 
 
 basit olan versiyonu için https://github.com/emreuyguc/Python3_Basit-Tema-Site-indirici-Downloader
+
+![screen](https://i.ibb.co/89ctCGd/asfasf.png);
+
+![proc](https://i.ibb.co/CnrqrPH/asdsadasd.png);
